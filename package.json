@@ -1,6 +1,6 @@
 {
   "name": "node-dhtmlx-excel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Exporting Data to Excel with Node & DHTMLX ",
   "main": "index.js",
   "scripts": {
