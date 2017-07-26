@@ -1,6 +1,6 @@
 {
   "name": "node-dhtmlx-excel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Exporting Data to Excel with Node & DHTMLX ",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,8 @@
   },
   "keywords": [
     "node",
-    "dhtmlx"
+    "dhtmlx",
+    "grid"
   ],
   "author": "Mauro Braggio <m.braggio@e-time.it>",
   "license": "ISC",
