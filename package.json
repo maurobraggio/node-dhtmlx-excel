@@ -1,0 +1,24 @@
+{
+  "name": "node-dhtmlx-excel",
+  "version": "1.0.0",
+  "description": "Exporting Data to Excel with Node & DHTMLX ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "node",
+    "dhtmlx"
+  ],
+  "author": "Mauro Braggio <m.braggio@e-time.it>",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx-populate": "^1.8.2",
+    "xml-js": "^1.3.2",
+    "xml-parser": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sistemi-etime/node-dhtmlx-excel.git"
+  },
+}
